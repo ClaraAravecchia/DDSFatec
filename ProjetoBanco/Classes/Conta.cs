@@ -9,7 +9,7 @@ namespace ProjetoBanco.Classes
             if (!cliente.EhMaiorIDade)
                 throw new Exception("O cliente não possúi a idade mínima para criação da conta!");
 
-            if (numero.ToString().Length < 5)
+            if (numero.ToString().Length > 5)
                 throw new Exception("Número da conta inválido!");
 
             Cliente = cliente;
@@ -23,6 +23,7 @@ namespace ProjetoBanco.Classes
 
         public Cliente Cliente { get; private set; }
         public string Mensagem { get; protected set; }
+        public string MensagemTransferencia { get; protected set; }
 
         public decimal Saldo
         {
@@ -52,8 +53,8 @@ namespace ProjetoBanco.Classes
             }
 
             Saldo -= valor;
+            MensagemTransferencia = $"Valor de {valor} transferido. Total: {Saldo}";
             destino.Depositar(valor);
-            Mensagem = $"Valor de {valor} transferido!";
             return true;
         }
     }

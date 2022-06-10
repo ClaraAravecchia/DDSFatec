@@ -27,7 +27,7 @@ namespace ProjetoBanco.Classes
             }
 
             Saldo -= valorSaque;
-            Mensagem = $"Saque de {valorSaque} efetuado com sucesso";
+            Mensagem = $"Saque de {valorSaque} efetuado com sucesso. Total: {Saldo}";
             return true;
         }
 
@@ -45,7 +45,7 @@ namespace ProjetoBanco.Classes
                 return false;
             }
             Saldo += valorDeposito;
-            Mensagem = $"Deposito de {valorDeposito} efetuado com sucesso";
+            Mensagem = $"Deposito de {valorDeposito} efetuado com sucesso. Total: {Saldo}";
             return true;
         }
 

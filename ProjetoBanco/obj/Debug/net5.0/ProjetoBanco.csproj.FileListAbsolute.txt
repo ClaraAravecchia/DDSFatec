@@ -30,3 +30,19 @@ D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.
 D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\bin\Debug\net5.0\ref\ProjetoBanco.dll
 D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.pdb
 D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.genruntimeconfig.cache
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.exe
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.deps.json
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.runtimeconfig.json
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.runtimeconfig.dev.json
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.dll
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ref\ProjetoBanco.dll
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.pdb
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csproj.AssemblyReference.cache
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfoInputs.cache
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfo.cs
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csproj.CoreCompileInputs.cache
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.dll
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ref\ProjetoBanco.dll
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.pdb
+D:\DDS_Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.genruntimeconfig.cache
